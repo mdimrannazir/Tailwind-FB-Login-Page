@@ -1,6 +1,6 @@
 # Tailwind-FB-Login-Page
 
-https://mdimrannazir.github.io/Tailwind-FB-Login-gh-pages/
+https://mdimrannazir.github.io/Tailwind-FB-Login-Page/
 
 It's just a practice project to judge myself if I'm able to work with tailwind css properly or not.
 
